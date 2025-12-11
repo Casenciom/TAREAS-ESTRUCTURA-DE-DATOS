@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 3\tareasemana3\bin\Debug\net10.0\tareasemana3.exe
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 3\tareasemana3\bin\Debug\net10.0\tareasemana3.deps.json
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 3\tareasemana3\bin\Debug\net10.0\tareasemana3.runtimeconfig.json
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 3\tareasemana3\bin\Debug\net10.0\tareasemana3.dll
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 3\tareasemana3\bin\Debug\net10.0\tareasemana3.pdb
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 3\tareasemana3\obj\Debug\net10.0\tareasemana3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 3\tareasemana3\obj\Debug\net10.0\tareasemana3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 3\tareasemana3\obj\Debug\net10.0\tareasemana3.AssemblyInfo.cs
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 3\tareasemana3\obj\Debug\net10.0\tareasemana3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 3\tareasemana3\obj\Debug\net10.0\tareasemana3.dll
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 3\tareasemana3\obj\Debug\net10.0\refint\tareasemana3.dll
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 3\tareasemana3\obj\Debug\net10.0\tareasemana3.pdb
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 3\tareasemana3\obj\Debug\net10.0\tareasemana3.genruntimeconfig.cache
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 3\tareasemana3\obj\Debug\net10.0\ref\tareasemana3.dll
