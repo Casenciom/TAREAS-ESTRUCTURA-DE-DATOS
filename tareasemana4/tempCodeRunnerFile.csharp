@@ -1,0 +1,130 @@
+using System;
+using System.Collections.Generic;
+
+namespace AgendaClinicaSimple
+{
+    // ===== ESTRUCTURA =====
+    struct Turno
+    {
+        public string Fecha;
+        public string Hora;
+        public string Paciente;
+        public string Medico;
+    }
+
+    // ===== CLASE CLINICA =====
+    class Clinica
+    {
+        // Vectores
+        public List<string> Pacientes = new List<string>();
+        public List<string> Medicos = new List<string>();
+
+        // Matriz
+        public Turno[,] Turnos = new Turno[3, 3];
+
+        public void AgregarPaciente()
+        {
+            Console.Write("Nombre del paciente: ");
+            string nombre = Console.ReadLine();
+            Pacientes.Add(nombre);
+            Console.WriteLine("Paciente registrado.\n");
+        }
+
+        public void AgregarMedico()
+        {
+            Console.Write("Nombre del médico: ");
+            string nombre = Console.ReadLine();
+            Medicos.Add(nombre);
+            Console.WriteLine("Médico registrado.\n");
+        }
+
+        public void AsignarTurno()
+        {
+            Console.Write("Fila (0-2): ");
+            int f = int.Parse(Console.ReadLine());
+
+            Console.Write("Columna (0-2): ");
+            int c = int.Parse(Console.ReadLine());
+
+            Console.Write("Fecha: ");
+            Turnos[f, c].Fecha = Console.ReadLine();
+
+            Console.Write("Hora: ");
+            Turnos[f, c].Hora = Console.ReadLine();
+
+            Console.WriteLine("Pacientes:");
+            for (int i = 0; i < Pacientes.Count; i++)
+                Console.WriteLine(i + ". " + Pacientes[i]);
+
+            Console.Write("Seleccione paciente: ");
+            int p = int.Parse(Console.ReadLine());
+            Turnos[f, c].Paciente = Pacientes[p];
+
+            Console.WriteLine("Médicos:");
+            for (int i = 0; i < Medicos.Count; i++)
+                Console.WriteLine(i + ". " + Medicos[i]);
+
+            Console.Write("Seleccione médico: ");
+            int m = int.Parse(Console.ReadLine());
+            Turnos[f, c].Medico = Medicos[m];
+
+            Console.WriteLine("Turno asignado.\n");
+        }
+
+        public void MostrarTurnos()
+        {
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    if (Turnos[i, j].Fecha != null)
+                    {
+                        Console.WriteLine($"[{i},{j}] {Turnos[i, j].Fecha} {Turnos[i, j].Hora} - " +
+                                          $"{Turnos[i, j].Paciente} con {Turnos[i, j].Medico}");
+                    }
+                }
+            }
+            Console.WriteLine();
+        }
+    }
+
+    // ===== PROGRAMA PRINCIPAL =====
+    class Program
+    {
+        static void Main()
+        {
+            Clinica clinica = new Clinica();
+            int opcion;
+
+            do
+            {
+                Console.WriteLine("=== AGENDA CLÍNICA SIMPLE ===");
+                Console.WriteLine("1. Agregar paciente");
+                Console.WriteLine("2. Agregar médico");
+                Console.WriteLine("3. Asignar turno");
+                Console.WriteLine("4. Mostrar turnos");
+                Console.WriteLine("0. Salir");
+                Console.Write("Opción: ");
+                opcion = int.Parse(Console.ReadLine());
+                Console.WriteLine();
+
+                switch (opcion)
+                {
+                    case 1:
+                        clinica.AgregarPaciente();
+                        break;
+                    case 2:
+                        clinica.AgregarMedico();
+                        break;
+                    case 3:
+                        clinica.AsignarTurno();
+                        break;
+                    case 4:
+                        clinica.MostrarTurnos();
+                        break;
+                }
+
+            } while (opcion != 0);
+        }
+    }
+}
