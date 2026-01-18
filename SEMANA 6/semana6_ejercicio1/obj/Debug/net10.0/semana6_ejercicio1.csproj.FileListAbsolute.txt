@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio1\bin\Debug\net10.0\semana6_ejercicio1.exe
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio1\bin\Debug\net10.0\semana6_ejercicio1.deps.json
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio1\bin\Debug\net10.0\semana6_ejercicio1.runtimeconfig.json
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio1\bin\Debug\net10.0\semana6_ejercicio1.dll
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio1\bin\Debug\net10.0\semana6_ejercicio1.pdb
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio1\obj\Debug\net10.0\semana6_ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio1\obj\Debug\net10.0\semana6_ejercicio1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio1\obj\Debug\net10.0\semana6_ejercicio1.AssemblyInfo.cs
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio1\obj\Debug\net10.0\semana6_ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio1\obj\Debug\net10.0\semana6_ejercicio1.dll
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio1\obj\Debug\net10.0\refint\semana6_ejercicio1.dll
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio1\obj\Debug\net10.0\semana6_ejercicio1.pdb
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio1\obj\Debug\net10.0\semana6_ejercicio1.genruntimeconfig.cache
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio1\obj\Debug\net10.0\ref\semana6_ejercicio1.dll

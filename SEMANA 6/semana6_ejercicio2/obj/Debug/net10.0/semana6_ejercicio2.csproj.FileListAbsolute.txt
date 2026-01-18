@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio2\bin\Debug\net10.0\semana6_ejercicio2.exe
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio2\bin\Debug\net10.0\semana6_ejercicio2.deps.json
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio2\bin\Debug\net10.0\semana6_ejercicio2.runtimeconfig.json
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio2\bin\Debug\net10.0\semana6_ejercicio2.dll
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio2\bin\Debug\net10.0\semana6_ejercicio2.pdb
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio2\obj\Debug\net10.0\semana6_ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio2\obj\Debug\net10.0\semana6_ejercicio2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio2\obj\Debug\net10.0\semana6_ejercicio2.AssemblyInfo.cs
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio2\obj\Debug\net10.0\semana6_ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio2\obj\Debug\net10.0\semana6_ejercicio2.dll
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio2\obj\Debug\net10.0\refint\semana6_ejercicio2.dll
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio2\obj\Debug\net10.0\semana6_ejercicio2.pdb
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio2\obj\Debug\net10.0\semana6_ejercicio2.genruntimeconfig.cache
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 6\semana6_ejercicio2\obj\Debug\net10.0\ref\semana6_ejercicio2.dll
