@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 10\ejercicio_semana10\bin\Debug\net10.0\ejercicio_semana10.exe
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 10\ejercicio_semana10\bin\Debug\net10.0\ejercicio_semana10.deps.json
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 10\ejercicio_semana10\bin\Debug\net10.0\ejercicio_semana10.runtimeconfig.json
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 10\ejercicio_semana10\bin\Debug\net10.0\ejercicio_semana10.dll
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 10\ejercicio_semana10\bin\Debug\net10.0\ejercicio_semana10.pdb
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 10\ejercicio_semana10\obj\Debug\net10.0\ejercicio_semana10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 10\ejercicio_semana10\obj\Debug\net10.0\ejercicio_semana10.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 10\ejercicio_semana10\obj\Debug\net10.0\ejercicio_semana10.AssemblyInfo.cs
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 10\ejercicio_semana10\obj\Debug\net10.0\ejercicio_semana10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 10\ejercicio_semana10\obj\Debug\net10.0\ejercicio_semana10.dll
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 10\ejercicio_semana10\obj\Debug\net10.0\refint\ejercicio_semana10.dll
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 10\ejercicio_semana10\obj\Debug\net10.0\ejercicio_semana10.pdb
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 10\ejercicio_semana10\obj\Debug\net10.0\ejercicio_semana10.genruntimeconfig.cache
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 10\ejercicio_semana10\obj\Debug\net10.0\ref\ejercicio_semana10.dll
