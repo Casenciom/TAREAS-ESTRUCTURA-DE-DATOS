@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 14\Arbol_binario\bin\Debug\net10.0\Arbol_binario.exe
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 14\Arbol_binario\bin\Debug\net10.0\Arbol_binario.deps.json
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 14\Arbol_binario\bin\Debug\net10.0\Arbol_binario.runtimeconfig.json
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 14\Arbol_binario\bin\Debug\net10.0\Arbol_binario.dll
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 14\Arbol_binario\bin\Debug\net10.0\Arbol_binario.pdb
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 14\Arbol_binario\obj\Debug\net10.0\Arbol_binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 14\Arbol_binario\obj\Debug\net10.0\Arbol_binario.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 14\Arbol_binario\obj\Debug\net10.0\Arbol_binario.AssemblyInfo.cs
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 14\Arbol_binario\obj\Debug\net10.0\Arbol_binario.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 14\Arbol_binario\obj\Debug\net10.0\Arbol_binario.dll
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 14\Arbol_binario\obj\Debug\net10.0\refint\Arbol_binario.dll
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 14\Arbol_binario\obj\Debug\net10.0\Arbol_binario.pdb
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 14\Arbol_binario\obj\Debug\net10.0\Arbol_binario.genruntimeconfig.cache
+C:\Users\User\Desktop\UEA 2025-26 PROYECTOS ESTRUCTURAS DE DATOS\SEMANA 14\Arbol_binario\obj\Debug\net10.0\ref\Arbol_binario.dll
